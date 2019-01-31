@@ -14,6 +14,7 @@ function isEven(a){
 }
 
 
-console.log(isEven(9))
-console.log(isEven(90))
-console.log(isEven(-1))
+// console.log(isEven(9))
+// console.log(isEven(90))
+// console.log(isEven(-1))
+
